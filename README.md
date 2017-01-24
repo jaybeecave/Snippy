@@ -10,6 +10,6 @@ The default database for snippets in alfred 3 is
 
 `~/Library/Application Support/Alfred 3/Databases/snippets.alfdb"`
 
-
+###Important
 
 The collection used by this script is `Snips` which is the default collection Alfred uses.
