@@ -1,5 +1,5 @@
 #Snippet workflow for Alfred 3
 
-##Usage
+###Usage
 `snip snippetname:snippet`
 
